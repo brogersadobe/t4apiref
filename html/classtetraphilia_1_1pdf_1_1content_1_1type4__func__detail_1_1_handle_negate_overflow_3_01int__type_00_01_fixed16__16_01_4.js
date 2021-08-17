@@ -1,0 +1,4 @@
+var classtetraphilia_1_1pdf_1_1content_1_1type4__func__detail_1_1_handle_negate_overflow_3_01int__type_00_01_fixed16__16_01_4 =
+[
+    [ "ret_type", "classtetraphilia_1_1pdf_1_1content_1_1type4__func__detail_1_1_handle_negate_overflow_3_01int__type_00_01_fixed16__16_01_4.html#a4fef8906172d8bc2df7cb7f54dbde14e", null ]
+];

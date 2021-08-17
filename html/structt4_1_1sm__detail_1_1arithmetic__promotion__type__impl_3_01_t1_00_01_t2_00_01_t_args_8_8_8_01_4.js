@@ -1,0 +1,4 @@
+var structt4_1_1sm__detail_1_1arithmetic__promotion__type__impl_3_01_t1_00_01_t2_00_01_t_args_8_8_8_01_4 =
+[
+    [ "type", "structt4_1_1sm__detail_1_1arithmetic__promotion__type__impl_3_01_t1_00_01_t2_00_01_t_args_8_8_8_01_4.html#aa813ebbe5f0410ebf70b971f540d3d59", null ]
+];

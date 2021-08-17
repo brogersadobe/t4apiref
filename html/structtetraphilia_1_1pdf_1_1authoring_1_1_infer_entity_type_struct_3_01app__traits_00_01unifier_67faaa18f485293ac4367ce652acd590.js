@@ -1,0 +1,5 @@
+var structtetraphilia_1_1pdf_1_1authoring_1_1_infer_entity_type_struct_3_01app__traits_00_01unifier_67faaa18f485293ac4367ce652acd590 =
+[
+    [ "operator()", "structtetraphilia_1_1pdf_1_1authoring_1_1_infer_entity_type_struct_3_01app__traits_00_01unifier_67faaa18f485293ac4367ce652acd590.html#afde3cad8a67b3e2bdbd3972efd37b9d8", null ],
+    [ "operator()", "structtetraphilia_1_1pdf_1_1authoring_1_1_infer_entity_type_struct_3_01app__traits_00_01unifier_67faaa18f485293ac4367ce652acd590.html#a57139fa46172cb94ad865e8e7ba98400", null ]
+];

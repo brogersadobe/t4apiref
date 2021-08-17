@@ -1,0 +1,4 @@
+var classtetraphilia_1_1imaging__model_1_1_generic_graphic_x_walker_cluster_type_param_list_3_01signal__traits_00_012_01_4 =
+[
+    [ "type", "classtetraphilia_1_1imaging__model_1_1_generic_graphic_x_walker_cluster_type_param_list_3_01signal__traits_00_012_01_4.html#af7891943672bfd80c4468a262668e0cc", null ]
+];

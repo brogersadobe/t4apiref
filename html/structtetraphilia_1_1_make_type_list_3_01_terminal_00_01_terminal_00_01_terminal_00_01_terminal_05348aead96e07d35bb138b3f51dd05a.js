@@ -1,0 +1,4 @@
+var structtetraphilia_1_1_make_type_list_3_01_terminal_00_01_terminal_00_01_terminal_00_01_terminal_05348aead96e07d35bb138b3f51dd05a =
+[
+    [ "type", "structtetraphilia_1_1_make_type_list_3_01_terminal_00_01_terminal_00_01_terminal_00_01_terminal_05348aead96e07d35bb138b3f51dd05a.html#a806e616a9a44d8638d2ec7e94491c0f7", null ]
+];

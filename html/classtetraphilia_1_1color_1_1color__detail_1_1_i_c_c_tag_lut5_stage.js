@@ -1,0 +1,25 @@
+var classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage =
+[
+    [ "grid_size_type", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#ae300015e381060f59fa7540fc2a4c007", null ],
+    [ "table_type", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#af55c70e83387af0d015ae6663645a418", null ],
+    [ "trc_type", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a73b4168b94c9d573bf20cea4d0112975", null ],
+    [ "ICCTagLut5Stage", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a364c697b906e0e29d377cb7482f42216", null ],
+    [ "GetACurve", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a92ffce2f8975ce73c35f4c14cab3ee2d", null ],
+    [ "GetBCurve", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a2e59c88e3a3589d1371c81f96d48630a", null ],
+    [ "GetCachedSize", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#afe0a724ac379fc7c5d8a365ecebee33a", null ],
+    [ "GetCLUT", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#abc8ca22c31ac63f26670dc69bb38589a", null ],
+    [ "GetGridSizes", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a7320bc1e24a76c9f1968485c6c660289", null ],
+    [ "GetMCurve", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a4a7a9993f32dbfabffa18bc1072fb012", null ],
+    [ "HasACurves", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a23e022a57d33ccf4d3b84032d02465a3", null ],
+    [ "HasBCurves", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a162a1f317bfbe77bcd7b5f35553a0b26", null ],
+    [ "HasCLUT", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a0314b2dbf3d6bca2a98ed3af3ec651d4", null ],
+    [ "HasMCurves", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a456d89b91296452b5014bf64ef77adab", null ],
+    [ "Is4Stage", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#ad78f9d691b52fddb6de096e472dfb898", null ],
+    [ "IsAtoBType", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a7dcacb3a03d5995afa5372e31232186a", null ],
+    [ "Parse", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a7fb8f0cf607b7160e9499539ff652c89", null ],
+    [ "m_aCurves", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#ab10eed34e210d38f92781a7e1a7d1cdc", null ],
+    [ "m_bCurves", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#ae29d02d81d2df1baa8673e10a118db42", null ],
+    [ "m_CLUT", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a39163d21094668fd1117fefafbfc67e5", null ],
+    [ "m_gridSizes", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a8803a9cb9fc3cc7a1e2575073787e229", null ],
+    [ "m_mCurves", "classtetraphilia_1_1color_1_1color__detail_1_1_i_c_c_tag_lut5_stage.html#a84ea68adceef8ed63305a781679d77da", null ]
+];

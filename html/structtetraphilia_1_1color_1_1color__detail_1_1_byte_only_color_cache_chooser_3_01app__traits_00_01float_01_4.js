@@ -1,0 +1,4 @@
+var structtetraphilia_1_1color_1_1color__detail_1_1_byte_only_color_cache_chooser_3_01app__traits_00_01float_01_4 =
+[
+    [ "colorcache_type", "structtetraphilia_1_1color_1_1color__detail_1_1_byte_only_color_cache_chooser_3_01app__traits_00_01float_01_4.html#a6af886478f0397b6c2116dc3a225dea2", null ]
+];

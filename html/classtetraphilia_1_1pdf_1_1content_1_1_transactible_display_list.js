@@ -1,0 +1,27 @@
+var classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list =
+[
+    [ "TransactibleDisplayList", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a3b7c9dc5c53485fd0581eb9382683cfb", null ],
+    [ "~TransactibleDisplayList", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#ab18b7f6a696553edd0d7539d07e75823", null ],
+    [ "CancelTransactionRecord", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a4d268f0ffa1b93b1c406de3daed8d20e", null ],
+    [ "CanRedo", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a2561c35913b5a5777cb32c96e7b9475b", null ],
+    [ "CanUndo", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#af7fdf2b24ec537c246536958755e4a54", null ],
+    [ "CommitToStore", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#aa1a6c36f1f65a8d7252394aa870fb545", null ],
+    [ "CommitTransactionRecord", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a5781a886af9140c51e3d81426775eb3b", null ],
+    [ "CreateAndCommitTransactionRecord", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a0ca12893e957c3853e1125d2a916d996", null ],
+    [ "CreateTransactionRecord", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a014693885d19c35d9b23cf60523f07a5", null ],
+    [ "EnumerateContent", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a23f5a3de69e2f7e8c4f5e397e841c1ac", null ],
+    [ "GetCachedSize", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#af29c9ff545fdb472a1b344a5e1731046", null ],
+    [ "GetContentRecord", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#adef87c20b2e8e1d1ded995d25ac51af5", null ],
+    [ "GetDependentCachesUpdateNum", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a6882b5046193d37b65363d68e81f6138", null ],
+    [ "GetDocumentCaches", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#aca8886e9c8f76900967a92f015a6615e", null ],
+    [ "GetReflowLayoutCache", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a9e6009218123dff710b9024feb8aacbb", null ],
+    [ "GetVisibleBBox", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#ab50942f5320a66eaeee9906bbca7f473", null ],
+    [ "IsDirty", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#ab1eff11d293c6dcc05f03b0c57d9b1e8", null ],
+    [ "Redo", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a859fbcb9da690c084c75ea433ed16693", null ],
+    [ "ResetVisibleBBox", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a5f6a3ba66102bfff4c4a2e48d77da03a", null ],
+    [ "SetDirty", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#aa5ff20421e7cf3704142df6ac1c2f290", null ],
+    [ "SetVisibleBBox", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a918da429380172c6359a8ad0f311cf51", null ],
+    [ "Undo", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a654606fee4572958b6f43536792e4905", null ],
+    [ "UpdatePageDLInLastTransaction", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#a25e4074112577884e74c3a3130405a54", null ],
+    [ "VisibleBBoxComputed", "classtetraphilia_1_1pdf_1_1content_1_1_transactible_display_list.html#ae6388e8732b25c797b511bbfda9a8093", null ]
+];

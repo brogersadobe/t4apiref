@@ -1,0 +1,4 @@
+var structtetraphilia_1_1imaging__model_1_1_encoder_chooser_3_01__surface__traits_00_01__signal__trae4c65678ac33a9b05535ebfebd089171 =
+[
+    [ "type", "structtetraphilia_1_1imaging__model_1_1_encoder_chooser_3_01__surface__traits_00_01__signal__trae4c65678ac33a9b05535ebfebd089171.html#a260153472001db30da57b18de537fe0a", null ]
+];

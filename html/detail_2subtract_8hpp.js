@@ -1,0 +1,10 @@
+var detail_2subtract_8hpp =
+[
+    [ "subtract_impl_helper< Result, T1, T2, std::enable_if_t<(sizeof(T1) !=sizeof(T2)||sizeof(T2) !=sizeof(Result)) &&std::is_integral< Result >::value &&std::is_integral< T1 >::value &&std::is_integral< T2 >::value > >", "structt4_1_1sm__detail_1_1subtract__impl__helper_3_01_result_00_01_t1_00_01_t2_00_01std_1_1enabl9b537741973e3f375cb8a9cc9edbff3b.html", "structt4_1_1sm__detail_1_1subtract__impl__helper_3_01_result_00_01_t1_00_01_t2_00_01std_1_1enabl9b537741973e3f375cb8a9cc9edbff3b" ],
+    [ "subtract_impl_helper< Result, T1, T2, std::enable_if_t< sizeof(T1)==sizeof(T2) &&sizeof(T2)==sizeof(Result) &&std::is_integral< Result >::value &&std::is_integral< T1 >::value &&std::is_integral< T2 >::value > >", "structt4_1_1sm__detail_1_1subtract__impl__helper_3_01_result_00_01_t1_00_01_t2_00_01std_1_1enabl9873cdd7689881185bef918a894464df.html", "structt4_1_1sm__detail_1_1subtract__impl__helper_3_01_result_00_01_t1_00_01_t2_00_01std_1_1enabl9873cdd7689881185bef918a894464df" ],
+    [ "subtract_impl_helper< Result, T1, T2, std::enable_if_t< std::is_floating_point< Result >::value > >", "structt4_1_1sm__detail_1_1subtract__impl__helper_3_01_result_00_01_t1_00_01_t2_00_01std_1_1enabl0c04ce833adf78aaf6b4464cb76cef6b.html", "structt4_1_1sm__detail_1_1subtract__impl__helper_3_01_result_00_01_t1_00_01_t2_00_01std_1_1enabl0c04ce833adf78aaf6b4464cb76cef6b" ],
+    [ "subtract_impl_helper< Result, T1, T2, std::enable_if_t< std::is_integral< Result >::value &&(!std::is_integral< T1 >::value||!std::is_integral< T2 >::value)> >", "structt4_1_1sm__detail_1_1subtract__impl__helper_3_01_result_00_01_t1_00_01_t2_00_01std_1_1enabl6e760f343112d7db956b91269c2773e7.html", null ],
+    [ "subtract_impl", "structt4_1_1sm__detail_1_1subtract__impl.html", "structt4_1_1sm__detail_1_1subtract__impl" ],
+    [ "subtract", "detail_2subtract_8hpp.html#af389787544066e85fe916fd32ce75842", null ],
+    [ "subtract_or_fail", "detail_2subtract_8hpp.html#a4440071aebbefec64265c1141eaa2308", null ]
+];

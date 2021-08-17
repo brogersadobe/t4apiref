@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['large_5fint_5ftype_25392',['large_int_type',['../classt4_1_1pdf_1_1hint__table.html#ad6a46c3422d5549c1d17437de43db42f',1,'t4::pdf::hint_table::large_int_type()'],['../structtetraphilia_1_1pdf_1_1store_1_1_object_impl.html#a5347e2602d1cb2343b167ae71b6b4e19',1,'tetraphilia::pdf::store::ObjectImpl::large_int_type()'],['../classtetraphilia_1_1pdf_1_1store_1_1_object.html#a525dae0c258b185201d8c013be3b8fa9',1,'tetraphilia::pdf::store::Object::large_int_type()'],['../classtetraphilia_1_1pdf_1_1store_1_1_store.html#a8d5154966cce452ea28360fb382c5eeb',1,'tetraphilia::pdf::store::Store::large_int_type()'],['../structtetraphilia_1_1pdf_1_1store_1_1_store_obj.html#ae94927055b2f59462bd39a017408dce5',1,'tetraphilia::pdf::store::StoreObj::large_int_type()'],['../structtetraphilia_1_1_tetraphilia_p_d_f_traits.html#a494331781213e188c2a5e2ec61eb2d99',1,'tetraphilia::TetraphiliaPDFTraits::large_int_type()']]],
+  ['large_5finteger_25393',['large_integer',['../namespacet4_1_1pdf.html#ae1f67fe8b51332bb14237033b7aa5a07',1,'t4::pdf']]],
+  ['layout_5fentity_5fcategory_25394',['layout_entity_category',['../structtetraphilia_1_1pdf_1_1authoring_1_1layout__entity__traits.html#a9b645e5ecfc405f7ab7fdce044df08bc',1,'tetraphilia::pdf::authoring::layout_entity_traits::layout_entity_category()'],['../structtetraphilia_1_1pdf_1_1authoring_1_1layout__entity.html#a55232400a55e925e17a3fedb88fd5780',1,'tetraphilia::pdf::authoring::layout_entity::layout_entity_category()']]],
+  ['layout_5fsink_5fcategory_25395',['layout_sink_category',['../structtetraphilia_1_1pdf_1_1authoring_1_1layout__sink__traits.html#ac4d9c096d35c3276beb3ac8d72d45fa7',1,'tetraphilia::pdf::authoring::layout_sink_traits::layout_sink_category()'],['../structtetraphilia_1_1pdf_1_1authoring_1_1layout__sink.html#a65a80f428f705c676e9e04222aa6a45a',1,'tetraphilia::pdf::authoring::layout_sink::layout_sink_category()']]],
+  ['layout_5fsink_5ftype_25396',['layout_sink_type',['../structtetraphilia_1_1pdf_1_1authoring_1_1spatial__unifier__traits.html#a590a7c092659bdccd93487598920f11b',1,'tetraphilia::pdf::authoring::spatial_unifier_traits']]],
+  ['leakproof_5funique_5fptr_25397',['leakproof_unique_ptr',['../namespacet4.html#a630d009be3cc38d9248b457356043deb',1,'t4']]],
+  ['line_5fendings_25398',['line_endings',['../namespacet4_1_1pdf.html#a520e8768e061ed54a380b5954df6f8f2',1,'t4::pdf']]],
+  ['line_5fendpoints_25399',['line_endpoints',['../namespacet4_1_1pdf.html#a5d4cbae6c5b3e5b6a89cce33d4126ab7',1,'t4::pdf']]],
+  ['line_5finfo_25400',['line_info',['../namespacet4_1_1pdf.html#a0cae0035e2bbb4be335a8bd2da4a03d6',1,'t4::pdf']]],
+  ['line_5fstack_5ftype_25401',['line_stack_type',['../classtetraphilia_1_1pdf_1_1textextract_1_1_inferred_line.html#aac678466064edff32147c200d7deddc5',1,'tetraphilia::pdf::textextract::InferredLine']]],
+  ['linesink_25402',['LineSink',['../namespacetetraphilia_1_1pdf_1_1authoring.html#a3627a52aa61809c3dd60c844cc734126',1,'tetraphilia::pdf::authoring']]],
+  ['lineto_25403',['lineto',['../namespacet4.html#ae3cdefc4de6538fb2bbd4e8b53c82895',1,'t4']]],
+  ['list_25404',['List',['../namespacetetraphilia_1_1pdf_1_1authoring.html#ae4328665db83a155bb7d5b7df879ace7',1,'tetraphilia::pdf::authoring']]],
+  ['list_25405',['list',['../namespacet4.html#a790c235e2b5641fa8591394e626d48e6',1,'t4::list()'],['../namespacetetraphilia.html#aec516cbb4b8e7214581e7241cef7d6ad',1,'tetraphilia::list()']]],
+  ['listsink_25406',['ListSink',['../namespacetetraphilia_1_1pdf_1_1authoring.html#a213636784f3b5fc7251a18e312226356',1,'tetraphilia::pdf::authoring']]],
+  ['longhormetric_25407',['longHorMetric',['../namespacetetraphilia_1_1pdf_1_1text.html#ada968b2183f07b2e4923c248e8222aae',1,'tetraphilia::pdf::text']]]
+];

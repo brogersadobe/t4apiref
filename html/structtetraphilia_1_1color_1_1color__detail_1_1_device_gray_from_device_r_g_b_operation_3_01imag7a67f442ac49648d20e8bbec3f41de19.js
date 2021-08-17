@@ -1,0 +1,7 @@
+var structtetraphilia_1_1color_1_1color__detail_1_1_device_gray_from_device_r_g_b_operation_3_01imag7a67f442ac49648d20e8bbec3f41de19 =
+[
+    [ "intermediate_int_type", "structtetraphilia_1_1color_1_1color__detail_1_1_device_gray_from_device_r_g_b_operation_3_01imag7a67f442ac49648d20e8bbec3f41de19.html#a27002f99cf80e103d39c9dd81e1033d5", null ],
+    [ "signal_traits", "structtetraphilia_1_1color_1_1color__detail_1_1_device_gray_from_device_r_g_b_operation_3_01imag7a67f442ac49648d20e8bbec3f41de19.html#a92da6e6a7e97071b6cc53699ec2d82c6", null ],
+    [ "DeviceGrayFromDeviceRGBOperation", "structtetraphilia_1_1color_1_1color__detail_1_1_device_gray_from_device_r_g_b_operation_3_01imag7a67f442ac49648d20e8bbec3f41de19.html#ae1430843d99d63b260d98707950a5ea9", null ],
+    [ "operator()", "structtetraphilia_1_1color_1_1color__detail_1_1_device_gray_from_device_r_g_b_operation_3_01imag7a67f442ac49648d20e8bbec3f41de19.html#a70ed2c0f486f60636cbdf19c51754623", null ]
+];

@@ -1,0 +1,4 @@
+var structt4_1_1int__union__detail_1_1select__impl_3_01_integer_00_01_first_special_00_01_more_specials_8_8_8_01_4 =
+[
+    [ "type", "structt4_1_1int__union__detail_1_1select__impl_3_01_integer_00_01_first_special_00_01_more_specials_8_8_8_01_4.html#aebfda322dbae8919c876cda30e7aa265", null ]
+];

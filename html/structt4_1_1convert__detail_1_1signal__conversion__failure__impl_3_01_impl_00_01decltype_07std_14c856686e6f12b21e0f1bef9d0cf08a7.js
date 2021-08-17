@@ -1,0 +1,4 @@
+var structt4_1_1convert__detail_1_1signal__conversion__failure__impl_3_01_impl_00_01decltype_07std_14c856686e6f12b21e0f1bef9d0cf08a7 =
+[
+    [ "operator()", "structt4_1_1convert__detail_1_1signal__conversion__failure__impl_3_01_impl_00_01decltype_07std_14c856686e6f12b21e0f1bef9d0cf08a7.html#ab9efe49f473561aa663a0ccfd83c3a92", null ]
+];

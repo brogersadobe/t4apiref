@@ -1,0 +1,4 @@
+var structtetraphilia_1_1imaging__model_1_1_ideal_clip_walker_clusters_helper_3_01signal__traits_00_01false_01_4 =
+[
+    [ "type", "structtetraphilia_1_1imaging__model_1_1_ideal_clip_walker_clusters_helper_3_01signal__traits_00_01false_01_4.html#a715ec7688d422bf19f74329349bb1fd6", null ]
+];

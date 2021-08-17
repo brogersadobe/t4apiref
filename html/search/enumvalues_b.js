@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['label_26751',['label',['../namespacet4_1_1aaa.html#a74bdaaad0b8b888193cbda531577ed9bad304ba20e96d87411588eeabac850e34',1,'t4::aaa']]],
+  ['layered_5fpane_26752',['layered_pane',['../namespacet4_1_1aaa.html#a74bdaaad0b8b888193cbda531577ed9ba02636fbb2e46e08a14a82fbf13afba47',1,'t4::aaa']]],
+  ['left_5faligned_26753',['LEFT_ALIGNED',['../structtetraphilia_1_1pdf_1_1authoring_1_1_paragraph.html#ad2a2e7f5dd10023e2eebcb5d8ee19245a1dc66754d2822203188c215ab256a8aa',1,'tetraphilia::pdf::authoring::Paragraph']]],
+  ['legacy_5frpdf_26754',['legacy_rpdf',['../namespacet4_1_1pdf.html#a0bddaa196f3099ac7727ade87402eedcabbd72c174fb9a3f75a3649e54abb3cc7',1,'t4::pdf']]],
+  ['lighten_26755',['LIGHTEN',['../namespacegpu.html#a0b9f4f520e3d73c6ecabd274c53bfcceae30c584ef93523fe591d54117cbdbc87',1,'gpu']]],
+  ['line_26756',['line',['../namespacet4_1_1pdf.html#af53f6ffd54873b9bb31d30df98dc3f33a6438c669e0d0de98e6929c2cc0fac474',1,'t4::pdf::line()'],['../namespacet4_1_1pdf.html#a8ff7c98fa24aef33219a0bb78ce997f8a6438c669e0d0de98e6929c2cc0fac474',1,'t4::pdf::line()']]],
+  ['line_5farrow_26757',['line_arrow',['../namespacet4_1_1pdf.html#a8ff7c98fa24aef33219a0bb78ce997f8abd5b9b3a72cb6d32a64911a4d843f069',1,'t4::pdf']]],
+  ['lineto_26758',['lineto',['../namespacet4.html#ae5937a37a6b00d62a79469a00b47b493a373c78340c195685203220b77a39488b',1,'t4']]],
+  ['link_26759',['link',['../namespacet4_1_1aaa.html#a74bdaaad0b8b888193cbda531577ed9ba2a304a1348456ccd2234cd71a81bd338',1,'t4::aaa::link()'],['../namespacet4_1_1aaa.html#aef6be3b4c222acc97d0c33e35bd35ad4a2a304a1348456ccd2234cd71a81bd338',1,'t4::aaa::link()']]],
+  ['link_5fannotation_26760',['link_annotation',['../namespacet4_1_1pdf.html#af480bc95a128f141e8e8784b58d08ac4a7dd50193e00ce9b31a3e83c2c34c843e',1,'t4::pdf']]],
+  ['linked_26761',['linked',['../namespacet4_1_1aaa.html#a8b01af16d60bbafa7325ade334ff85a4ad48e37bc19b9fe2c72923c30fd7a4152',1,'t4::aaa']]],
+  ['list_26762',['list',['../namespacet4_1_1aaa.html#a74bdaaad0b8b888193cbda531577ed9ba10ae9fc7d453b0dd525d0edf2ede7961',1,'t4::aaa::list()'],['../namespacet4_1_1aaa.html#aef6be3b4c222acc97d0c33e35bd35ad4a10ae9fc7d453b0dd525d0edf2ede7961',1,'t4::aaa::list()']]],
+  ['list_5fbox_5ffield_26763',['list_box_field',['../namespacet4_1_1pdf.html#af480bc95a128f141e8e8784b58d08ac4af4dcae1df20d9ed77e5c4c1ebb8a3c7a',1,'t4::pdf']]],
+  ['list_5fitem_26764',['list_item',['../namespacet4_1_1aaa.html#aef6be3b4c222acc97d0c33e35bd35ad4a172de35339063c0e14aacd028e9ccec4',1,'t4::aaa']]],
+  ['listitem_26765',['listitem',['../namespacet4_1_1aaa.html#a74bdaaad0b8b888193cbda531577ed9bad362611faf178dc7bb04a41e05e1c005',1,'t4::aaa']]],
+  ['lookahead_26766',['lookahead',['../classtetraphilia_1_1pdf_1_1authoring_1_1line__unifier.html#a72a0eb12876f8443b61ad3a573b26b28a3d06d012a4169c4bb1d0fb06e84bfee4',1,'tetraphilia::pdf::authoring::line_unifier::lookahead()'],['../classtetraphilia_1_1pdf_1_1authoring_1_1paragraph__unifier.html#a28e5ee2ca58aed2df36858bf36e33224a62e9dc508c25710f71cedfa6231531d7',1,'tetraphilia::pdf::authoring::paragraph_unifier::lookahead()'],['../classtetraphilia_1_1pdf_1_1authoring_1_1table__unifier.html#a8baeb0ccf3c8801191642cb73081e99ca66e5a7a43d5bf8b4afd2b52ccefaab51',1,'tetraphilia::pdf::authoring::table_unifier::lookahead()'],['../classtetraphilia_1_1pdf_1_1authoring_1_1list__unifier.html#a231201ce60a93371ca01c943d1dbf7e6ad375b9903c57e1b7a864d5a76befa458',1,'tetraphilia::pdf::authoring::list_unifier::lookahead()'],['../classtetraphilia_1_1pdf_1_1authoring_1_1multi__column__unifier.html#adeefbf3c76178e82607f3d9de309c825a5c5a2331215e932277a86fc4bae618cd',1,'tetraphilia::pdf::authoring::multi_column_unifier::lookahead()']]],
+  ['low_5fprecision_26767',['LOW_PRECISION',['../namespacegpu.html#a1a5d00190f90c7d5cf1e889df794002ba3febeb3e50c0615fbe693a0e4562d8c4',1,'gpu']]],
+  ['luminosity_26768',['LUMINOSITY',['../namespacegpu.html#a0b9f4f520e3d73c6ecabd274c53bfccea30b2e48ef403283b42f21eca868a1546',1,'gpu']]]
+];

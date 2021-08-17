@@ -1,0 +1,4 @@
+var structtetraphilia_1_1imaging__model_1_1_surface_traits_3_01__signal__traits_00_01k24_bit_r_g_b_big_endian_01_4 =
+[
+    [ "signal_traits", "structtetraphilia_1_1imaging__model_1_1_surface_traits_3_01__signal__traits_00_01k24_bit_r_g_b_big_endian_01_4.html#a17fdf56c658b81eb1453fb51dbd95455", null ]
+];

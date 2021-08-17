@@ -1,0 +1,27 @@
+var classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info =
+[
+    [ "SimpleGlyphInfo", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a31c1f4e9773e2e61e8dc8c406ba31970", null ],
+    [ "ApplyEncoding", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a8b2f59aa01e26ce79f4dc7e9d34edb9e", null ],
+    [ "ApplyEncoding", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a92bfeca99abe54f72e6c1589c64db977", null ],
+    [ "ApplyEncoding", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a3cbe6b2bfb569c09da014fdbba0a3d59", null ],
+    [ "ApplyEncodingPoint", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a46611e80fefb17df459201e91785f86b", null ],
+    [ "GetCachedSize", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a94cc1cc779912a95865f92a0081f63f9", null ],
+    [ "GetGlyph", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a353e7f4e6d26372771aa5976366bcee9", null ],
+    [ "GetGlyph", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#ab5f1fc9c291f4173c1b1400d060c4898", null ],
+    [ "GetGlyphID", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a5413325fe9740881b14def479563d41a", null ],
+    [ "GetGlyphIDs", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#afcd0d597e7d1970bbf9ff1ce0fbcb2b7", null ],
+    [ "GetNotDefGlyphID", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a4898ce0620455012058b73a8d97f8916", null ],
+    [ "GetWidth", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#ad634e6fd785b9c5fc86506b71b59c2b3", null ],
+    [ "GetWidthsArray", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a10bc9f1d9d69621f3956e8cba5b972ee", null ],
+    [ "IsPublicEncodingName_SLANG", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#ac903714c04ced841eb0f014bda705667", null ],
+    [ "IsVertical", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a328c4e82468e1267a257407678698a6e", null ],
+    [ "SetCharCodeMap", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#ae853acf0031b3d4ec12900668defe5fa", null ],
+    [ "SetGlyphID", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#afcc1ea7bd6f4e4e421e831a2ac49c65c", null ],
+    [ "SetWidth", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#ada6f86da34712458ac2cfd5a35cd5609", null ],
+    [ "SetWidths", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a27796e38281ee4793e61a7dece998479", null ],
+    [ "SetWidths", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#adfda4992bc13f3e0c83780d773cab371", null ],
+    [ "SetWidths", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a95d091a6239fd870988caca6505aa685", null ],
+    [ "m_glyphIDs", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a2b7b5b9e78e41efdffbaf0e3d03defe0", null ],
+    [ "m_notDefGlyphID", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#a28c471e38ef0d2eb45dd380a9bdc8380", null ],
+    [ "m_widths", "classtetraphilia_1_1pdf_1_1text_1_1_simple_glyph_info.html#adbcf1fb60e2ff0c7b29ac5035248f67e", null ]
+];

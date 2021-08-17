@@ -1,0 +1,6 @@
+var structstd_1_1hash_3_01t4_1_1int__union__detail_1_1int__union__impl_3_01_integer_00_01_policy_00_972baf8ba7de09140814cb125002d60b =
+[
+    [ "argument_type", "structstd_1_1hash_3_01t4_1_1int__union__detail_1_1int__union__impl_3_01_integer_00_01_policy_00_972baf8ba7de09140814cb125002d60b.html#a79b512acf5a83640e2acc563fb59ea45", null ],
+    [ "result_type", "structstd_1_1hash_3_01t4_1_1int__union__detail_1_1int__union__impl_3_01_integer_00_01_policy_00_972baf8ba7de09140814cb125002d60b.html#a93892c2eb6dc0779bcf6015e5f1e068e", null ],
+    [ "operator()", "structstd_1_1hash_3_01t4_1_1int__union__detail_1_1int__union__impl_3_01_integer_00_01_policy_00_972baf8ba7de09140814cb125002d60b.html#a6a6491880904e6d02d26ab481e422346", null ]
+];

@@ -1,0 +1,4 @@
+var structt4_1_1point__type_3_01_bezier_path_00_01std_1_1enable__if__t_3_01is__bezier__path_3_01_bezab8c0940fcff8a73dcd0c53ca68863c9 =
+[
+    [ "type", "structt4_1_1point__type_3_01_bezier_path_00_01std_1_1enable__if__t_3_01is__bezier__path_3_01_bezab8c0940fcff8a73dcd0c53ca68863c9.html#a6b94e2cb3673088a80e316095c048323", null ]
+];

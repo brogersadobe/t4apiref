@@ -1,0 +1,27 @@
+var structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator =
+[
+    [ "app_traits", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#aff13aefd5dac12263d8f7a6b89b72a28", null ],
+    [ "bez_path_iter_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#a34bb864e5c116a23614d49facc5c556b", null ],
+    [ "clip_raster_painter_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#aec2194f73e5b718e3d4c6ca359b3a86a", null ],
+    [ "constraints_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#a927cb74817ac4aa373dcb051e9ffba50", null ],
+    [ "graphic_store_ptr_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#a3ec7cf7a73350575f2902bdfa1b9e49e", null ],
+    [ "graphic_store_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#aa74c0fafc0ff765d7429223a16936ceb", null ],
+    [ "hardclip_ptr_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#abf8f8668dedac53f86178d84f82f5b5d", null ],
+    [ "hardclip_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#ac717fa9b5f77d0608033afa91aa1eb7c", null ],
+    [ "int_rect_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#a69b19d8196788632c4f478a591357149", null ],
+    [ "matrix_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#ad8a1a1f39e826d4945db9c3c24f6d557", null ],
+    [ "raster_painter_ptr_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#adcbe6115917f59b627094548ff00f8a3", null ],
+    [ "raster_painter_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#af2f6cc6efdcf1045efe5e71ec3547527", null ],
+    [ "real_type", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#a0df421a1f3b95c68f91b5849be1a2743", null ],
+    [ "sampler_traits", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#a5ab201a784c87641e8f2a37658ecc983", null ],
+    [ "ClipAccumulator", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#af20549bc9ca48e79aa0d7085e478543e", null ],
+    [ "Accumulate", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#ad443af93d9d51909b8ccdeac4eec341f", null ],
+    [ "AccumulateWithOffset", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#ad4588fef37cf95a970bb2d21b75842ce", null ],
+    [ "m_constraints", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#ac2e88f5bd368ca99c1cfa347c87527eb", null ],
+    [ "m_gStore", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#aeabdee52c276329187049174b7f38e42", null ],
+    [ "m_hardclip", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#a3234ab6bfc9b2bbc35fd56a7b953df83", null ],
+    [ "m_invMatrix", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#afbdf3ffe9484f10f87a03be8ff9cd539", null ],
+    [ "m_matrix", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#a99946695be1f1acd4e22e9a51394600e", null ],
+    [ "m_numSoftClips", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#ab5ea8927de1a34120159588354e88028", null ],
+    [ "m_softClip", "structtetraphilia_1_1pdf_1_1render_1_1_clip_accumulator.html#a7534c58c40ff0080e20da214fb02851e", null ]
+];

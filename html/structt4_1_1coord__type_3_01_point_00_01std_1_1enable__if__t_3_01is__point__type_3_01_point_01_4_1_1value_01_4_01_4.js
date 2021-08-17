@@ -1,0 +1,4 @@
+var structt4_1_1coord__type_3_01_point_00_01std_1_1enable__if__t_3_01is__point__type_3_01_point_01_4_1_1value_01_4_01_4 =
+[
+    [ "type", "structt4_1_1coord__type_3_01_point_00_01std_1_1enable__if__t_3_01is__point__type_3_01_point_01_4_1_1value_01_4_01_4.html#a3529c85c3cf7042ff9187d9ca1d5b8a3", null ]
+];

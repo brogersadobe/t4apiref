@@ -1,0 +1,4 @@
+var structt4_1_1compute__memory__size__impl_3_01t3_1_1pdf_1_1store_1_1_indirect_object_3_01app__traits_01_4_01_4 =
+[
+    [ "operator()", "structt4_1_1compute__memory__size__impl_3_01t3_1_1pdf_1_1store_1_1_indirect_object_3_01app__traits_01_4_01_4.html#ae46d9be2c9b93ee84f1b9c79a6b2ba82", null ]
+];

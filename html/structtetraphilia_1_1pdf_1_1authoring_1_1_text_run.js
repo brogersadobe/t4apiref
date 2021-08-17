@@ -1,0 +1,27 @@
+var structtetraphilia_1_1pdf_1_1authoring_1_1_text_run =
+[
+    [ "matrix_type", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#aadb93db337bf79a9d075240b51e29d6b", null ],
+    [ "parent_type", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a731966e7acde555df244dc94667bfaa3", null ],
+    [ "real_rect_type", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a79003e28b02676da9d396b360e4c0b66", null ],
+    [ "real_type", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#ae9392b4ea2a8f132f3f9f860f2b6e2b0", null ],
+    [ "text_string_type", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a4ed5067613fc2dbee4f40c346f5db40d", null ],
+    [ "TextRun", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#ad080971db0249a0a57004a5c847b2be6", null ],
+    [ "GetMaxWidthPerChar", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#aac15d3c48468e48cb4213eb62e36514e", null ],
+    [ "m_baselineXMax", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a236adbda253f073acb014ff9f693c693", null ],
+    [ "m_baselineXMin", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a48521703e37ba304b46d41c98a5a803b", null ],
+    [ "m_charCount", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#ae1be985b60bb2e4eca20299ad71bba78", null ],
+    [ "m_charSpace", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#aa679775e337d8a280a8b05d80e3e7ea7", null ],
+    [ "m_color", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#ac68f8150a115a2a9451e553b00a2f528", null ],
+    [ "m_derivedTextMatrix", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#ab61803aac02456d7f05ab1645e7ef0df", null ],
+    [ "m_dlEntryNum", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a3ad953ed8c4fd9d766431e3f79c0613c", null ],
+    [ "m_fontKey", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a0041a1da80b16dd50aebf7df56b3b780", null ],
+    [ "m_fontSize", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a5d7b36a0a79c735fa35294a0f2f1ecdb", null ],
+    [ "m_hasValidNonWhitespaceChar", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#affaeb43626e45f0d720b17d44615b839", null ],
+    [ "m_horizScale", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a1c29497d2923cf63900d029ebb45d600", null ],
+    [ "m_leading", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a446f06bd93fec6dea629cbbd2191bb89", null ],
+    [ "m_subStrVector", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#adb97f8367bf18b5c480cf47583b8a1c6", null ],
+    [ "m_textMatrix", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#aec0752b692a9c260a82d27d31af01411", null ],
+    [ "m_uneditable", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a3958e9a8174dd77ee673ca389db81d2d", null ],
+    [ "m_userSpaceToDefaultUserSpaceMatrix", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a6530200daeff30b44784fcf389ea7dde", null ],
+    [ "m_wordSpace", "structtetraphilia_1_1pdf_1_1authoring_1_1_text_run.html#a40ec1b3332011868b8c68118251439e2", null ]
+];

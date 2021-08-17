@@ -1,0 +1,4 @@
+var structt4_1_1coord__type_3_01_affine_transform_00_01std_1_1enable__if__t_3_01is__affine__transfor4ed0ac0d55f821ea4d2c496022311573 =
+[
+    [ "type", "structt4_1_1coord__type_3_01_affine_transform_00_01std_1_1enable__if__t_3_01is__affine__transfor4ed0ac0d55f821ea4d2c496022311573.html#a4b85e85de5ee3dbd56a03fd06061a2bf", null ]
+];

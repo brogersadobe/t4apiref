@@ -1,0 +1,4 @@
+var structt4_1_1event__detail_1_1make__event__stream__impl_3_01event__stream_3_01_events_8_8_8_01_4_00_01_impl_01_4 =
+[
+    [ "operator()", "structt4_1_1event__detail_1_1make__event__stream__impl_3_01event__stream_3_01_events_8_8_8_01_4_00_01_impl_01_4.html#a7220c0586f01768c1560811cec720360", null ]
+];

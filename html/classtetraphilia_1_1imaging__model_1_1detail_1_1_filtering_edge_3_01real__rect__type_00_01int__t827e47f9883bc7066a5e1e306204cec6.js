@@ -1,0 +1,12 @@
+var classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6 =
+[
+    [ "FilteringEdge", "classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6.html#aac025233d46d7fcd104894c931caf661", null ],
+    [ "CalcPtAtXMax", "classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6.html#aae7752787cec4515cf5396a788fa6d4d", null ],
+    [ "CalcPtAtXMin", "classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6.html#a27e5b56be5cc8d1df52f527574d6c5ed", null ],
+    [ "CalcPtAtYMax", "classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6.html#aa9894bcf380532e5e091d41663ac12a1", null ],
+    [ "CalcPtAtYMin", "classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6.html#a868e49066028ae2d3759b5c7b093e62c", null ],
+    [ "getCurrP0", "classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6.html#adc436c1b4639ea00afa98779d3d49392", null ],
+    [ "getCurrP1", "classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6.html#a46f996394988d496e4fcf0350abf32e7", null ],
+    [ "setCurrP0", "classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6.html#a610b2a4f2ef6428355c5254558fb668c", null ],
+    [ "setCurrP1", "classtetraphilia_1_1imaging__model_1_1detail_1_1_filtering_edge_3_01real__rect__type_00_01int__t827e47f9883bc7066a5e1e306204cec6.html#a4ec6df77de4694a5745420325efafee4", null ]
+];

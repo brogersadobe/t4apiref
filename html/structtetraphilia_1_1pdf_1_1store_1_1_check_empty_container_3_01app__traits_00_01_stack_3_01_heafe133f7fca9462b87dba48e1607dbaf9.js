@@ -1,0 +1,4 @@
+var structtetraphilia_1_1pdf_1_1store_1_1_check_empty_container_3_01app__traits_00_01_stack_3_01_heafe133f7fca9462b87dba48e1607dbaf9 =
+[
+    [ "operator()", "structtetraphilia_1_1pdf_1_1store_1_1_check_empty_container_3_01app__traits_00_01_stack_3_01_heafe133f7fca9462b87dba48e1607dbaf9.html#a577a0acb0662ef179a1650847c47e024", null ]
+];

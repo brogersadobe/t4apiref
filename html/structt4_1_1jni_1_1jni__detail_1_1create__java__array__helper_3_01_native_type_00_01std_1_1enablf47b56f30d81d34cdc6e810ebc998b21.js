@@ -1,0 +1,4 @@
+var structt4_1_1jni_1_1jni__detail_1_1create__java__array__helper_3_01_native_type_00_01std_1_1enablf47b56f30d81d34cdc6e810ebc998b21 =
+[
+    [ "operator()", "structt4_1_1jni_1_1jni__detail_1_1create__java__array__helper_3_01_native_type_00_01std_1_1enablf47b56f30d81d34cdc6e810ebc998b21.html#a990432c904acc60230c62c5324bf8fa6", null ]
+];

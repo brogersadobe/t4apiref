@@ -1,0 +1,4 @@
+var structtetraphilia_1_1imaging__model_1_1_ideal_walker_clusters_3_01_separable_operation_3_01_clip028be983b6c104b89ceebe3c42663fa0 =
+[
+    [ "type", "structtetraphilia_1_1imaging__model_1_1_ideal_walker_clusters_3_01_separable_operation_3_01_clip028be983b6c104b89ceebe3c42663fa0.html#a5f4b23a299277b363dee97634ad6149d", null ]
+];

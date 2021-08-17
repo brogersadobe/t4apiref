@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['samplingintent_25797',['SamplingIntent',['../namespacetetraphilia_1_1imaging__model.html#a56703db3a9df03c4e5f2124831f69929',1,'tetraphilia::imaging_model']]],
+  ['samplingkind_25798',['SamplingKind',['../classtetraphilia_1_1imaging__model_1_1base__image__sampler.html#a26e411e8ce788a3efcd45a719ba15cc1',1,'tetraphilia::imaging_model::base_image_sampler']]],
+  ['script_25799',['Script',['../namespacetetraphilia_1_1pdf_1_1text.html#a2096a1542b4b679002cbe0301064aa5e',1,'tetraphilia::pdf::text']]],
+  ['sealignment_25800',['SEAlignment',['../namespacetetraphilia_1_1pdf_1_1textextract.html#a0efd6dfe61626f238c16492e99f1ead1',1,'tetraphilia::pdf::textextract']]],
+  ['secategory_25801',['SECategory',['../namespacetetraphilia_1_1pdf_1_1textextract.html#a30d40b1ac797431a6a1f55d552a342fe',1,'tetraphilia::pdf::textextract']]],
+  ['segmentindex_25802',['SegmentIndex',['../classtetraphilia_1_1imaging__model_1_1_smooth_shade_sampler_with_one_line_graphic_store.html#afb74c5c931d7c612eae7cf8ae877d4e2',1,'tetraphilia::imaging_model::SmoothShadeSamplerWithOneLineGraphicStore']]],
+  ['selection_5fphase_25803',['selection_phase',['../namespacet4_1_1pdf.html#a10f27de6ea88bfd7ac0e8bd33071f858',1,'t4::pdf']]],
+  ['selineheighttype_25804',['SELineHeightType',['../namespacetetraphilia_1_1pdf_1_1textextract.html#ab2deb49eacb9fa9574d92495d29d6f32',1,'tetraphilia::pdf::textextract']]],
+  ['seplacement_25805',['SEPlacement',['../namespacetetraphilia_1_1pdf_1_1textextract.html#a69244ec1263f66025abb0bb10dd12975',1,'tetraphilia::pdf::textextract']]],
+  ['serubyposition_25806',['SERubyPosition',['../namespacetetraphilia_1_1pdf_1_1textextract.html#a27bc6739d80cd97268033d05a8699dda',1,'tetraphilia::pdf::textextract']]],
+  ['setype_25807',['SEType',['../namespacetetraphilia_1_1pdf_1_1textextract.html#a1db4cd58849271924f0eb2bd0357a49c',1,'tetraphilia::pdf::textextract']]],
+  ['sewritingmode_25808',['SEWritingMode',['../namespacetetraphilia_1_1pdf_1_1textextract.html#a4e136286bc9c3ae020c937f94d140c88',1,'tetraphilia::pdf::textextract']]],
+  ['shaperepresentation_25809',['ShapeRepresentation',['../structtetraphilia_1_1imaging__model_1_1_graphic_layout_descriptor.html#a86052f9fbf4e14f21a1037b48028824d',1,'tetraphilia::imaging_model::GraphicLayoutDescriptor']]],
+  ['smoothshadeextensiontype_25810',['SmoothShadeExtensionType',['../namespacetetraphilia_1_1imaging__model.html#abca9fada4f6c9e41faf38e9c916e759e',1,'tetraphilia::imaging_model']]],
+  ['state_25811',['state',['../namespacet4_1_1aaa.html#a8b01af16d60bbafa7325ade334ff85a4',1,'t4::aaa']]],
+  ['staticfixed16_5f16value_25812',['StaticFixed16_16Value',['../namespacetetraphilia.html#a08ab3d80a04afb415f0f449d54473c6c',1,'tetraphilia']]],
+  ['strokepathresult_25813',['StrokePathResult',['../namespacetetraphilia_1_1imaging__model_1_1stroker.html#a4c0477051c0a9a3da1e44d09d56d47b2',1,'tetraphilia::imaging_model::stroker']]],
+  ['structure_5ftype_25814',['structure_type',['../namespacet4_1_1pdf.html#af480bc95a128f141e8e8784b58d08ac4',1,'t4::pdf']]],
+  ['style_25815',['style',['../structt4_1_1pdf_1_1border.html#aba139a9bcda0d41e2db39f1bd81129dd',1,'t4::pdf::border::style()'],['../structt4_1_1pdf_1_1border_1_1effect.html#a287452c10bb75e81f07efa630d9f63a6',1,'t4::pdf::border::effect::style()']]],
+  ['subtype_25816',['subtype',['../classt4_1_1pdf_1_1font.html#a805d0fd6ac7b533c08cf3f9aa8fd578d',1,'t4::pdf::font']]],
+  ['surfaceformat_25817',['SurfaceFormat',['../namespacetetraphilia_1_1imaging__model.html#aba0734834551fad4110cbd15ba0b818b',1,'tetraphilia::imaging_model']]]
+];

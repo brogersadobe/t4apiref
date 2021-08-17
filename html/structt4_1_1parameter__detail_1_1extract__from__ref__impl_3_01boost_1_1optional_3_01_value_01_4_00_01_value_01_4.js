@@ -1,0 +1,4 @@
+var structt4_1_1parameter__detail_1_1extract__from__ref__impl_3_01boost_1_1optional_3_01_value_01_4_00_01_value_01_4 =
+[
+    [ "operator()", "structt4_1_1parameter__detail_1_1extract__from__ref__impl_3_01boost_1_1optional_3_01_value_01_4_00_01_value_01_4.html#abeb7ce2f80f4df85df3b364f8095a71b", null ]
+];

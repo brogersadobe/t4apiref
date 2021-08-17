@@ -1,0 +1,5 @@
+var classtetraphilia_1_1imaging__model_1_1_smooth_shade_sampler_with_one_line_graphic_store_raster_painter =
+[
+    [ "SmoothShadeSamplerWithOneLineGraphicStoreRasterPainter", "classtetraphilia_1_1imaging__model_1_1_smooth_shade_sampler_with_one_line_graphic_store_raster_painter.html#ac444c943ad352c80c8a359703368c194", null ],
+    [ "SetSampler", "classtetraphilia_1_1imaging__model_1_1_smooth_shade_sampler_with_one_line_graphic_store_raster_painter.html#af242fa06fa638cdb2b8ec58f853382fa", null ]
+];

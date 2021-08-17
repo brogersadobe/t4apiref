@@ -1,0 +1,5 @@
+var classt4_1_1array__deleter_3_01_t_00_01std_1_1enable__if__t_3_01std_1_1is__trivially__destructibl2ffe97c350970291287cedcf6c8733f4 =
+[
+    [ "array_deleter", "classt4_1_1array__deleter_3_01_t_00_01std_1_1enable__if__t_3_01std_1_1is__trivially__destructibl2ffe97c350970291287cedcf6c8733f4.html#a621530fc93865e644ee5f8c517dcf2a7", null ],
+    [ "operator()", "classt4_1_1array__deleter_3_01_t_00_01std_1_1enable__if__t_3_01std_1_1is__trivially__destructibl2ffe97c350970291287cedcf6c8733f4.html#a7b555090db861e26d211210eaaae37c1", null ]
+];

@@ -1,0 +1,5 @@
+var classt4_1_1cooperative__detail_1_1yield__hook_3_01_pre_00_01_post_00_01std_1_1enable__if__t_3_9s8615cb08484ccd9ca0bb3d40e160dd36 =
+[
+    [ "yield_hook", "classt4_1_1cooperative__detail_1_1yield__hook_3_01_pre_00_01_post_00_01std_1_1enable__if__t_3_9s8615cb08484ccd9ca0bb3d40e160dd36.html#a3dd730b44c3c640ad662a381f5ba9042", null ],
+    [ "~yield_hook", "classt4_1_1cooperative__detail_1_1yield__hook_3_01_pre_00_01_post_00_01std_1_1enable__if__t_3_9s8615cb08484ccd9ca0bb3d40e160dd36.html#a2dd035c5c684324bffa467b3865890cf", null ]
+];

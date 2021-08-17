@@ -1,0 +1,4 @@
+var structt4_1_1jni_1_1jni__detail_1_1register__natives__helper_3_01native__method__desc_3_01_return628bacaad87bafcc337db85a9917d849 =
+[
+    [ "operator()", "structt4_1_1jni_1_1jni__detail_1_1register__natives__helper_3_01native__method__desc_3_01_return628bacaad87bafcc337db85a9917d849.html#a98ffc95c46e5ed4a40aa3916d6cc76c2", null ]
+];

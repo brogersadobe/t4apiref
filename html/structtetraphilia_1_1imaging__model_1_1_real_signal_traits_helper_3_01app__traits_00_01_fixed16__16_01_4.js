@@ -1,0 +1,4 @@
+var structtetraphilia_1_1imaging__model_1_1_real_signal_traits_helper_3_01app__traits_00_01_fixed16__16_01_4 =
+[
+    [ "signal_traits", "structtetraphilia_1_1imaging__model_1_1_real_signal_traits_helper_3_01app__traits_00_01_fixed16__16_01_4.html#af790a535ee7f3ee907dc8c596aab520d", null ]
+];

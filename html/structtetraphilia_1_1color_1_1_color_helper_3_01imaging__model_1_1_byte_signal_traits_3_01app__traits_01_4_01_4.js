@@ -1,0 +1,6 @@
+var structtetraphilia_1_1color_1_1_color_helper_3_01imaging__model_1_1_byte_signal_traits_3_01app__traits_01_4_01_4 =
+[
+    [ "color_conv_type", "structtetraphilia_1_1color_1_1_color_helper_3_01imaging__model_1_1_byte_signal_traits_3_01app__traits_01_4_01_4.html#a140db8a627e1a65143649aeb866ada4b", null ],
+    [ "signal_traits", "structtetraphilia_1_1color_1_1_color_helper_3_01imaging__model_1_1_byte_signal_traits_3_01app__traits_01_4_01_4.html#a6a0f9613ed1c0a72dd1c70f78852bcfa", null ],
+    [ "signal_type", "structtetraphilia_1_1color_1_1_color_helper_3_01imaging__model_1_1_byte_signal_traits_3_01app__traits_01_4_01_4.html#afd1dd0b901d3cff7a4fcb6b6a60b9d84", null ]
+];

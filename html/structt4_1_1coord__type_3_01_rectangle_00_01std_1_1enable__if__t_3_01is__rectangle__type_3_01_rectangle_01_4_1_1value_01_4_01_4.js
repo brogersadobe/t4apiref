@@ -1,0 +1,4 @@
+var structt4_1_1coord__type_3_01_rectangle_00_01std_1_1enable__if__t_3_01is__rectangle__type_3_01_rectangle_01_4_1_1value_01_4_01_4 =
+[
+    [ "type", "structt4_1_1coord__type_3_01_rectangle_00_01std_1_1enable__if__t_3_01is__rectangle__type_3_01_rectangle_01_4_1_1value_01_4_01_4.html#aea9435021b72dc9c794508ddcd8a3170", null ]
+];

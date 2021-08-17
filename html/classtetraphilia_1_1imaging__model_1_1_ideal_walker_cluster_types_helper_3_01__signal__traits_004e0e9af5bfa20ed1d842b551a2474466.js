@@ -1,0 +1,15 @@
+var classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466 =
+[
+    [ "buffer_color", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#adddf164765f7f9617920ccd443e14e1d", null ],
+    [ "buffer_color_xwalker", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#a8059206f28f35bd4836d90c4d2bda2c9", null ],
+    [ "buffer_opacity", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#a5d87685231c372afd65e0ce1a51ef4c4", null ],
+    [ "buffer_shape", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#a41d21c96bd25266b7e5a14ae58bbb25d", null ],
+    [ "constant_color", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#a8c707a1c65b831750c0b9004c82b9235", null ],
+    [ "constant_color_xwalker", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#ae04891272309899720b405e2f805d2b2", null ],
+    [ "constant_opacity", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#aa1a4f06a5f51d7413109d5e52504bb40", null ],
+    [ "constant_shape", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#a888444dbb591e77083b9bcf733421a78", null ],
+    [ "dest_alpha_xwalker", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#afe7d75fb2a95273999c9fc7fc607cb67", null ],
+    [ "dest_buffer_color", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#a01472845ed3d76fcf651831546cfff33", null ],
+    [ "dest_buffer_opacity", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#a7a5872148b85f07373ef816d56cebeaf", null ],
+    [ "dest_buffer_shape", "classtetraphilia_1_1imaging__model_1_1_ideal_walker_cluster_types_helper_3_01__signal__traits_004e0e9af5bfa20ed1d842b551a2474466.html#abf87cf6f3dd21c27c5b968dc8c3fe1e5", null ]
+];

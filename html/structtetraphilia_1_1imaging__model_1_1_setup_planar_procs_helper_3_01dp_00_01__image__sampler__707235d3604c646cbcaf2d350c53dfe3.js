@@ -1,0 +1,5 @@
+var structtetraphilia_1_1imaging__model_1_1_setup_planar_procs_helper_3_01dp_00_01__image__sampler__707235d3604c646cbcaf2d350c53dfe3 =
+[
+    [ "app_traits", "structtetraphilia_1_1imaging__model_1_1_setup_planar_procs_helper_3_01dp_00_01__image__sampler__707235d3604c646cbcaf2d350c53dfe3.html#a8e743fc02f050d7711c296d9eebe4b12", null ],
+    [ "real_coord", "structtetraphilia_1_1imaging__model_1_1_setup_planar_procs_helper_3_01dp_00_01__image__sampler__707235d3604c646cbcaf2d350c53dfe3.html#a6f49eaed197ffe2bbe8aa8fcdadaa355", null ]
+];

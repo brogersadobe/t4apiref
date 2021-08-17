@@ -1,0 +1,4 @@
+var structtetraphilia_1_1imaging__model_1_1_get_signal_result_3_01channel__type_00_01_graphic_x_walk04dcc810983c791c080a9f0a67db0316 =
+[
+    [ "type", "structtetraphilia_1_1imaging__model_1_1_get_signal_result_3_01channel__type_00_01_graphic_x_walk04dcc810983c791c080a9f0a67db0316.html#ad83c1720f2f2bd8d82dcf11ab019e459", null ]
+];

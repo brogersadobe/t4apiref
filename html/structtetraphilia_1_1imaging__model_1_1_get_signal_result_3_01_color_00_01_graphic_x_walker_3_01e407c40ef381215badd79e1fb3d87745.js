@@ -1,0 +1,4 @@
+var structtetraphilia_1_1imaging__model_1_1_get_signal_result_3_01_color_00_01_graphic_x_walker_3_01e407c40ef381215badd79e1fb3d87745 =
+[
+    [ "type", "structtetraphilia_1_1imaging__model_1_1_get_signal_result_3_01_color_00_01_graphic_x_walker_3_01e407c40ef381215badd79e1fb3d87745.html#a375aa9c05b19ddb1c6381856167dd6d3", null ]
+];

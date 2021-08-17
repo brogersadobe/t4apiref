@@ -1,0 +1,4 @@
+var structtetraphilia_1_1imaging__model_1_1_point_type_helper_3_01stroker_1_1stroker__detail_1_1s_poc1ada940c9ecb7d1ec5c822f92d64af3 =
+[
+    [ "coord_type", "structtetraphilia_1_1imaging__model_1_1_point_type_helper_3_01stroker_1_1stroker__detail_1_1s_poc1ada940c9ecb7d1ec5c822f92d64af3.html#afaeaa3709c10e25c101595631856c98d", null ]
+];

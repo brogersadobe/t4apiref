@@ -1,0 +1,9 @@
+var classt4_1_1jni_1_1java__array__elements_3_01_j_type_00_01std_1_1enable__if__t_3_01std_1_1is__basecb8dd860e83232c1eed0ea4d829cc32 =
+[
+    [ "java_array_elements", "classt4_1_1jni_1_1java__array__elements_3_01_j_type_00_01std_1_1enable__if__t_3_01std_1_1is__basecb8dd860e83232c1eed0ea4d829cc32.html#ab682e78755b2e9bffa4d31f7764b9b74", null ],
+    [ "for_each_element", "classt4_1_1jni_1_1java__array__elements_3_01_j_type_00_01std_1_1enable__if__t_3_01std_1_1is__basecb8dd860e83232c1eed0ea4d829cc32.html#af5375891d02352b1d41ff0005177a2f7", null ],
+    [ "operator[]", "classt4_1_1jni_1_1java__array__elements_3_01_j_type_00_01std_1_1enable__if__t_3_01std_1_1is__basecb8dd860e83232c1eed0ea4d829cc32.html#a73cd06f0551402a893af7d2bf452cfb1", null ],
+    [ "put", "classt4_1_1jni_1_1java__array__elements_3_01_j_type_00_01std_1_1enable__if__t_3_01std_1_1is__basecb8dd860e83232c1eed0ea4d829cc32.html#ac495b0f0db52ed611cb0448e200b78cb", null ],
+    [ "size", "classt4_1_1jni_1_1java__array__elements_3_01_j_type_00_01std_1_1enable__if__t_3_01std_1_1is__basecb8dd860e83232c1eed0ea4d829cc32.html#a6067d8cde8727d800fb94dc23a52231f", null ],
+    [ "write_elements", "classt4_1_1jni_1_1java__array__elements_3_01_j_type_00_01std_1_1enable__if__t_3_01std_1_1is__basecb8dd860e83232c1eed0ea4d829cc32.html#a0950353b1e05bff73d39bf83f01b262a", null ]
+];

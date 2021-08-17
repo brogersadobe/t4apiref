@@ -1,0 +1,47 @@
+var _p_d_f_standard14_8hpp =
+[
+    [ "FontDesc", "structtetraphilia_1_1fonts_1_1substitution_1_1_font_desc.html", "structtetraphilia_1_1fonts_1_1substitution_1_1_font_desc" ],
+    [ "StdFauxInfo", "structtetraphilia_1_1fonts_1_1substitution_1_1_std_faux_info.html", null ],
+    [ "ctlRegion", "structtetraphilia_1_1fonts_1_1substitution_1_1ctl_region.html", "structtetraphilia_1_1fonts_1_1substitution_1_1ctl_region" ],
+    [ "CstrStruct", "structtetraphilia_1_1fonts_1_1substitution_1_1_cstr_struct.html", "structtetraphilia_1_1fonts_1_1substitution_1_1_cstr_struct" ],
+    [ "BaseDesc", "structtetraphilia_1_1fonts_1_1substitution_1_1_base_desc.html", "structtetraphilia_1_1fonts_1_1substitution_1_1_base_desc" ],
+    [ "FauxFD", "structtetraphilia_1_1fonts_1_1substitution_1_1_faux_f_d.html", "structtetraphilia_1_1fonts_1_1substitution_1_1_faux_f_d" ],
+    [ "FauxRec", "structtetraphilia_1_1fonts_1_1substitution_1_1_faux_rec.html", "structtetraphilia_1_1fonts_1_1substitution_1_1_faux_rec" ],
+    [ "MMDesc", "structtetraphilia_1_1fonts_1_1substitution_1_1_m_m_desc.html", null ],
+    [ "FauxFont", "classtetraphilia_1_1fonts_1_1substitution_1_1_faux_font.html", "classtetraphilia_1_1fonts_1_1substitution_1_1_faux_font" ],
+    [ "TangentTable", "structtetraphilia_1_1fonts_1_1substitution_1_1_tangent_table.html", null ],
+    [ "msr", "_p_d_f_standard14_8hpp.html#a277248e63661472b61f816677a42bcfb", null ],
+    [ "DescFlags", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9", [
+      [ "kFixedPitch", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9a6817a186b13f233308e668b6f5d914a5", null ],
+      [ "kSerif", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9aa753767edd9adff1a78b9bef42c5adef", null ],
+      [ "kSymbolic", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9a23ce88e62efed69cad3b6b287ca7a411", null ],
+      [ "kScript", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9a513b0fd39d9dfe0479e8ae9b0c4daa94", null ],
+      [ "kNonSymbolic", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9ac800ade974990dd174b2ede33345938c", null ],
+      [ "kItalic", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9ad1d1103df84cf567a3c512a9a255c658", null ],
+      [ "kAllCap", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9a33d6aee1bf62588b76c39420111a0676", null ],
+      [ "kSmallCap", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9a6cd4ad68cd80a8d1ee7202e7ba7ed4de", null ],
+      [ "kForceBold", "_p_d_f_standard14_8hpp.html#a2f792b9d8f95236126632abbb42f70e9a7694d2ee2dda1b76e4ac0efca7a898a5", null ]
+    ] ],
+    [ "Fonts", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507", [
+      [ "kCourier", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507a90fec5a6486889170198418f6d534cb9", null ],
+      [ "kCourierBold", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507aee0a46fb1844a89ca37b23afb971c81a", null ],
+      [ "kCourierOblique", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507a1f4acfa5922428a657c39b2879dc8b72", null ],
+      [ "kCourierBoldOblique", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507af55524706efa75f4c67204dae561ff5b", null ],
+      [ "kHelvetica", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507a5b8ad125f9420e1583bd638be8a220d6", null ],
+      [ "kHelveticaBold", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507ae44d11d746a03036a20dd5faa6befc8f", null ],
+      [ "kHelveticaOblique", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507a1099aee9279e8455cc50020848f49eb6", null ],
+      [ "kHelveticaBoldOblique", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507a840d18dff9f2fdda667a2bfc2acca4e5", null ],
+      [ "kTimesRoman", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507a5a02395e1132212c8dd7807c4ade276a", null ],
+      [ "kTimesBold", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507a50ba7b6710b46b966f751b0eebbad2c2", null ],
+      [ "kTimesItalic", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507ab527033ec6d688881b665e64c086fa67", null ],
+      [ "kTimesBoldItalic", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507adbe9698c364098be0cc85d5778029ed9", null ],
+      [ "kSymbol", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507aeab0f25c8f184613007761ff00c5adc3", null ],
+      [ "kZapfDingbats", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507abd0bc6a6b1459e79f20b036d427053a8", null ],
+      [ "kInvalid", "_p_d_f_standard14_8hpp.html#ad6f061a3d8e5b4548054975cde0c6507a2b80fb6aa1fc3755dde3c753ee9fd5c2", null ]
+    ] ],
+    [ "GetSubstitutionFontDesc", "_p_d_f_standard14_8hpp.html#a7df9a6c2f78224557b4e1b4ceaf34085", null ],
+    [ "GetSubstitutionFontWidths", "_p_d_f_standard14_8hpp.html#af1b671d96b39033dbc7ef16b1195ea1b", null ],
+    [ "GetWidths", "_p_d_f_standard14_8hpp.html#ab3347d61e4d2abbcbc8acdb4c760de4f", null ],
+    [ "NewStandardFont", "_p_d_f_standard14_8hpp.html#a0f20c529300c0cab5e238c5e5a52c331", null ],
+    [ "pin", "_p_d_f_standard14_8hpp.html#a7ef917cdf9778b60c892d00b5f1402d9", null ]
+];
